@@ -1,0 +1,16 @@
+SMAP
+view_jsp.java
+JSP
+*S JSP
+*F
++ 0 view.jsp
+client/view.jsp
+*L
+5,11:44
+16:55,3
+17,3:58
+20:61,3
+21,2:64
+23:66,3
+24,5:69
+*E
